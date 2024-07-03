@@ -5,7 +5,7 @@ let nombreAlumno= prompt("Ingrese nombre de alumno")
 // Pedir nombre de materias. 
 let materia= prompt("Ingrese el nombre de la materia")
 
-//Pedir las tres notas por usario 
+//Pedir las tres notas por usuario 
 
 let nota1= parseFloat(prompt("Ingrese la primera nota (de 0 a 10)"))
 let nota2= parseFloat(prompt("Ingrese la segunda nota (de 0 a 10)"))
